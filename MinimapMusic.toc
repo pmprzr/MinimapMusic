@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Minimap Music Volume
+## Notes: Compact minimap music volume controls for WoW Forever.
+## Author: pmprzr
+## Version: 1.0.0
+## SavedVariables: MinimapMusicDB
+
+MinimapMusic.lua
